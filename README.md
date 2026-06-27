@@ -28,7 +28,7 @@ JIRA · Confluence · SQL · Agile/Scrum · Data Governance · Data Mesh · Meta
 
 ## Featured Project
 
-### [TDD Framework](https://github.com/Purushotham961/Tdd_Framework) [testng-framework](https://github.com/Purushotham961/testng-framework)
+### [TDD Framework](https://github.com/Purushotham961/Tdd_Framework) || [testng-framework](https://github.com/Purushotham961/testng-framework)
 A Selenium WebDriver + Java + TestNG automation framework built from scratch, with cross-browser test execution, Docker-based containerized runs, and Jenkins CI/CD pipeline integration.
 
 ## Certifications
