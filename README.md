@@ -41,4 +41,4 @@ A Selenium WebDriver + Java + TestNG automation framework built from scratch, wi
 
 ## Let's Connect
 
-[LinkedIn](https://linkedin.com/in/purushothamv) · [Email](mailto:purushothamvilasagaram95@gmail.com)
+[LinkedIn](https://linkedin.com/in/purushothamv) · [Email](mailto:purushothamvilasagaram95@gmail.com) . [Portfolio](https://purushothamv.netlify.app/)
